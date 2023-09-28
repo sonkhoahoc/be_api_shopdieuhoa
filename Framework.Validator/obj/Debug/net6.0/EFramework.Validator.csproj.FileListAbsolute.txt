@@ -1,0 +1,48 @@
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.deps.json
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.dll
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.pdb
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.AssemblyReference.cache
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfoInputs.cache
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfo.cs
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.CoreCompileInputs.cache
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.dll
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\refint\EFramework.Validator.dll
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.pdb
+D:\DEV\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\ref\EFramework.Validator.dll
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.deps.json
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.dll
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.pdb
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.AssemblyReference.cache
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.GeneratedMSBuildEditorConfig.editorconfig
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfoInputs.cache
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfo.cs
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.CoreCompileInputs.cache
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.dll
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\refint\EFramework.Validator.dll
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.pdb
+E:\2. Work\1. SmartGAP\Github\point_of_sale_api\Point_of_Sale.API\Framework.Validator\obj\Debug\net6.0\ref\EFramework.Validator.dll
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.deps.json
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.dll
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.pdb
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.AssemblyReference.cache
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.GeneratedMSBuildEditorConfig.editorconfig
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfoInputs.cache
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfo.cs
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.CoreCompileInputs.cache
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.dll
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\refint\EFramework.Validator.dll
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.pdb
+E:\2. Work\3. Đồ án\doantulanh\backend\Framework.Validator\obj\Debug\net6.0\ref\EFramework.Validator.dll
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.deps.json
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.dll
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\bin\Debug\net6.0\EFramework.Validator.pdb
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.AssemblyReference.cache
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfoInputs.cache
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.AssemblyInfo.cs
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.csproj.CoreCompileInputs.cache
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.dll
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\refint\EFramework.Validator.dll
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\EFramework.Validator.pdb
+D:\clone code individual\doandieuhoa\backend\Framework.Validator\obj\Debug\net6.0\ref\EFramework.Validator.dll
